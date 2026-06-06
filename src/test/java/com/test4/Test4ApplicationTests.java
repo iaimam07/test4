@@ -8,7 +8,6 @@ class Test4ApplicationTests {
 
 	@Test
 	void contextLoads() {
-		String name = "mike";
 	}
 
 }
