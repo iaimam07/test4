@@ -1,6 +1,13 @@
+<<<<<<< Updated upstream
 ####Error######
 Fixed It
 
+=======
+Feature
+//Some login code OTP
+//75
+#########This above lines will be stored in a hidden git area + temp####
+>>>>>>> Stashed changes
 
 
 Ooty
